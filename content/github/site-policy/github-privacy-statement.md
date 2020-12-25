@@ -20,7 +20,7 @@ All capitalized terms have their definition in [GitHub’s Terms of Service](/gi
 
 ### The short version
 
-We use your personal information as this Privacy Statement describes. No matter where you are, where you live, or what your citizenship is, we provide the same high standard of privacy protection to all our users around the world, regardless of their country of origin or location.
+We use your personal information as this Privacy Statement describes. No matter where you are, where you live, or what your citizenship is, we provide the same high standard of privacy protection to all our users around the world, regardless of their country of origin or location or gender.
 
 Of course, the short version and the Summary below don't tell you everything, so please read on for more details.
 
